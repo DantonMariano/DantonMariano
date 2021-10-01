@@ -12,6 +12,6 @@ Principais Projetos:
 	<li> <a href="https://haquantotempo.netlify.app/"> Ha Quanto Tempo</a> ( React )</li>
 	<li> <a href="http://sistema-de-tarefas.herokuapp.com/"> Sistema de Tarefas</a> ( Laravel )</li>
 	<li> <a href="http://sistema-clubes.herokuapp.com/"> Sistema Clubes</a> ( Laravel, React )</li>
-	<li> <a href="http://www.tuqurl.xyz/"> Transform URL Quick! </a> ( Laravel )</li>
+	<li> <a href="http://www.tuqurl.xyz/"> Transform URL Quick! </a> ( Laravel, React )</li>
 	<li> <a href="https://danton-mariano.netlify.app/"> Portfolio</a> ( HTML, CSS, JS )</li>
 </ul>
