@@ -8,7 +8,7 @@
 
 Principais Projetos:
 <ul>
-	<li> <a href="https://www.calcularesistor.xyz/"> Calcula Resistor</a> ( React )</li>
+	<li> <a href="https://calcularesistor.netlify.app/"> Calcula Resistor</a> ( React )</li>
 	<li> <a href="https://haquantotempo.netlify.app/"> Ha Quanto Tempo</a> ( React )</li>
 	<li> <a href="http://sistema-de-tarefas.herokuapp.com/"> Sistema de Tarefas</a> ( Laravel )</li>
 	<li> <a href="http://sistema-clubes.herokuapp.com/"> Sistema Clubes</a> ( Laravel, React )</li>
