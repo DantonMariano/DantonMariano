@@ -10,6 +10,6 @@ Principais Projetos:
 <ul>
 	<li> <a href="https://calcularesistor.netlify.app/"> Calcula Resistor</a> ( React )</li>
 	<li> <a href="https://haquantotempo.netlify.app/"> Ha Quanto Tempo</a> ( React )</li>
-	<li> <a href="https://simpletimeline-dantonmariano.netlify.app/"> Simple Timeline</a> ( JS, GSAP, MUI )</li>
+	<li> <a href="https://simpletimeline-dantonmariano.netlify.app/"> Simple Timeline</a> ( React, TS, GSAP, MUI )</li>
 	<li> <a href="https://danton-mariano.netlify.app/"> Portfolio</a> ( HTML, CSS, JS )</li>
 </ul>
