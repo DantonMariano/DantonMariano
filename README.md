@@ -12,5 +12,5 @@ Principais Projetos:
 	<li> <a href="https://3dantonmariano.netlify.app/"> 3D Madness!</a> ( React, ThreeJS, R3F )</li>
 	<li> <a href="https://haquantotempo.netlify.app/"> Ha Quanto Tempo</a> ( React )</li>
 	<li> <a href="https://simpletimeline-dantonmariano.netlify.app/"> Simple Timeline</a> ( React, TS, GSAP, MUI )</li>
-	<li> <a href="https://danton-mariano.netlify.app/"> Portfolio</a> ( HTML, CSS, JS )</li>
+	<li> <a href="https://danton-mariano.netlify.app/"> Portfolio</a> ( React, framer-motion, MUI )</li>
 </ul>
