@@ -7,6 +7,6 @@
 </h1>
 
 <ul>
-	<li> <a href="https://danton-mariano.netlify.app/"> Portfolio</a> ( React, framer-motion, MUI )</li>
+	<li> <a href="https://dantonmariano.com/"> Portfolio</a> ( React, framer-motion, MUI )</li>
 	<li> <a href="https://3dantonmariano.netlify.app/"> 3D Madness!</a> ( React, ThreeJS, R3F )</li>
 </ul>
