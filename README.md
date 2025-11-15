@@ -1,6 +1,7 @@
 <h1 align='center' style='height:145px;'> 
   <b style='font-size:30px'> Welcome to /DantonMariano!</b>
-  
+</h1>
+
   <sub> Feel free to see some of my work! </sub>
   
 <ul>
