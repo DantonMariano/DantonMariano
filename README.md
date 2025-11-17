@@ -1,10 +1,9 @@
-<h1 align='center' style='height:145px;'> 
-  <b style='font-size:30px'> Welcome to /DantonMariano!</b>
+<h1 align='center'> 
+  <b> Welcome to /DantonMariano!</b>
 </h1>
-
-  <sub> Feel free to see some of my work! </sub>
-  
+<h3>Feel free to check out my contributions below!</h2>
+Blog posts
 <ul>
-	<li> <a href="https://dantonmariano.com/"> Portfolio</a> ( React, framer-motion, MUI )</li>
-	<li> <a href="https://3dantonmariano.netlify.app/"> 3D Madness!</a> ( React, ThreeJS, R3F )</li>
+	<li><a href="https://dantonmariano.com/blog/about-me">About me</a></li>
+	<li><a href="https://dantonmariano.com/blog/fortune">Things I learned along the years</a></li>
 </ul>
